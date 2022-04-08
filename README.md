@@ -1,10 +1,30 @@
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+The project is a To-Do program that enables users to add and delete various tasks they intend to accomplish.
+
+## Behavior-Driven Development (BDD)
+
+-The user enters their tasks through the input form interface and adds them to the list by clicking the 'Add Goal Button'
+-When a user clicks the 'Toggle Details' button, the details are expanded to show the goal description, the number of days remaining for the task to be accomplished, and the 'Delete Goal' Option Button
+-A Double Click on the 'Toggle Details' button collapses the expanded interface.
+
+## Technologies and Tools Used
+- Typescript
+- Angular
+- HTML5
+- CSS
+- Bootstrap
+- Javascript
+- Node JS
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Deployment Link
+Github Repository Link: https://github.com/DenisMuga/Angular-Crash-Project
 
 ## Code scaffolding
 
@@ -25,3 +45,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ 
+## Licence
+MIT License Copyright (c) [2022] [Denis Muga] Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Authors Info
+Slack Profile - Denis Muga. LinkedIn - (Denis Muga: https://www.linkedin.com/in/denis-mugah-0595b655/) Email - denismugah5@gmail.com Mobile: +254 712 858 753
